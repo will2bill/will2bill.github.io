@@ -3,6 +3,7 @@ layout: post
 title: How I Built this Site
 author: William Moore
 excerpt_separator: <!--more-->
+categories: [development]
 ---
 
 Creating this website was something I have been meaning to do for....well, a very long time. Probably since I built it

@@ -3,6 +3,7 @@ layout: post
 title: Welcome to the new Blog
 author: William Moore
 excerpt_separator: <!--more-->
+categories: [personal, development]
 ---
 
 Hi! This is something of an experiment, I haven't blogged in markdown before, but there's a first time for everything
