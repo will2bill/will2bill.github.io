@@ -13,6 +13,8 @@ as I work on them. I have been wanting to write more and this blog is intended t
 projects I am working on, it might be personal stories, and it might be creative writing. Whatever I'm feeling at the 
 time.
 
+<!--more-->
+
 ##### Who am I?
 Hi, my name is William Moore. I'm a writer and a Site Reliability Engineer, which is a made up title that means I work
 magic with cloud infrastructure (and other stuff, but that's the main thing). 
