@@ -6,8 +6,9 @@ image: /assets/images/icon.png
 ---
 <br>
 ##### [Github](https://github.com/will2bill){:target="_blank"}
-##### [Creative Work](/creative)
+##### [Creative Work]({{ my_page.url | relative_url }}/creative)
 ##### [Resume](/assets/Resume.pdf){:target="_blank"}
+##### [Blog]({{ my_page.url | relative_url }}/blog)
 
 <br>
 
